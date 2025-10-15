@@ -1,0 +1,1 @@
+ALTER TABLE "match" ALTER COLUMN "matchedAt" DROP NOT NULL;
